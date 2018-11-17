@@ -8,11 +8,11 @@ var reverse = function(x) {
     let i = 0;
     let sign = 1;
     
-    if (s[i] == '-') {
+    if (s[i] === '-') {
         i++;
         sign = -1;
     }
-    if (s[i] == '+') {
+    if (s[i] === '+') {
         i++;
     }
     let num = 0;

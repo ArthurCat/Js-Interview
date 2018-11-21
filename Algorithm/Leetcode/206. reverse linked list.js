@@ -12,7 +12,8 @@
 var reverseList = function(head) {
   return reverse(head, null); //recursively
 };
-function reverse(node, prev) {
+
+const reverse = (node, prev) => {
   if (!node) {
   return node;
   }  

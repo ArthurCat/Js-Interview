@@ -18,6 +18,11 @@ var findDisappearedNumbers = function(nums) {
       result.push(index + 1);
     }
   })
+//   for (let index of nums.keys()) {
+//     if(nums[index] > 0) {
+//       result.push(index + 1);
+//     }
+//   }
   return result;
 };
 

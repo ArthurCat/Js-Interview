@@ -12,7 +12,7 @@
 var isPalindrome = function(head) {
   let result = true;
   
-const traverse = (list) => {
+  const traverse = (list) => {
     if (list) {
       traverse(list.next);
       if (list.val != head.val) {

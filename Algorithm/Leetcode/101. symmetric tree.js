@@ -13,7 +13,7 @@ var isSymmetric = function(root) {
   if (!root) {
     return true;
   }
-  function dfs(m, n) {
+  const dfs = (m, n) => {
     if (!m && !n) {
       return true;
     }

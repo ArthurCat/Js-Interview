@@ -6,7 +6,6 @@
 var minPathSum = function(grid) {
   let m = grid.length;
   let n = grid[0].length;
-  console.log(m, n);
   for (let j = 1; j < n; j++) {
     grid[0][j] += grid[0][j - 1];
   }

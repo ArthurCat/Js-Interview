@@ -3,7 +3,7 @@
 __JavaScript__
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
 [ES6](http://es6.ruanyifeng.com/)  
-.[TypeScript](https://devhints.io/typescript)
+[TypeScript](https://devhints.io/typescript)
 
 __ES6 cheatsheets__  
   * [Everything about the latest version of the ECMAScript (JavaScript) standard](http://help.wtf/es6)  

@@ -28,7 +28,7 @@ getJSON('/posts.json').then(
     console.log('Constents: ' + json);
   },
   (error) => {
-    console.log('Error!',error);
+    console.log('Error!', error);
   });
   
   

@@ -34,7 +34,7 @@ getJSON('/posts.json').then(
 const clien = XMLHttpRequest();
 client.open('post', url);
 client.setRequestHeader('contentType','application/json');
-client.send(JSON.stringfy({name:"Zheng", id:"123"});
+client.send(JSON.stringify({name:"Zheng", id:"123"});
   
 //promise to async
 function getProcessedData(url) {

@@ -1,0 +1,48 @@
+{
+  "firstName": "John",
+  "lastName": "Snow",
+  "age": 25,
+  "children": [],
+  "spouse": null,
+  "address": {
+      "street": "7504 Taylor Drive",
+      "city": "New York City",
+      "state": "New York",
+      "postalCode": "11238"
+  },
+  "phoneNumbers": [
+      {
+          "type": "mobile",
+          "number": "212 555-3346"
+      },
+      {
+          "type": "fax",
+          "number": "646 555-4567"
+      }
+  ]
+}
+
+<!DOCTYPE html>
+<html>
+
+<body>
+	<h2>Decoding a JSON string into a JavaScript object.</h2>
+	<div id="json"></div>
+	<script>
+		var json_str = '{"fruit":"Apple","types":["Small","Medium","Large"],"quantity":1000}';
+
+		try {
+			var obj = JSON.parse(json_string);
+			document.getElementById("json").innerHTML = obj.fruit + ", [" + obj.types + "], "
+														+ obj.quantity;
+		} catch (e) {
+			alert("Cannot parse given string");
+		}
+	</script>
+</body>
+
+</html>
+
+JSON.stringify(obj)
+JSON.parse(json)
+application.json

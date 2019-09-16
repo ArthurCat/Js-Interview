@@ -26,4 +26,3 @@ __Big-O__
 __DB__
 * [MySQL](https://gist.github.com/hofmannsven/9164408)
 * [Firebase](https://firebase.google.com/docs/)
-* [AJAX](https://www.dummies.com/web-design-development/site-development/javascript-ajax-for-dummies-cheat-sheet/)

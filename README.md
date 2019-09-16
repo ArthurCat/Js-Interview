@@ -12,7 +12,7 @@ __ES6 cheatsheets__
   * [Template Literals ${dynamicString} performance](https://medium.com/front-end-weekly/es6-cool-stuffs-a-new-js-string-with-template-literals-c23a8af11b2)
  
 __HTML5__
-* [cheatsheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
+* [cheatsheet](https://websitesetup.org/wp-content/uploads/2019/08/HTML-CHEAT-SHEET.png)
 
 __CSS3__
 * [flex](https://yoksel.github.io/flex-cheatsheet/#display)

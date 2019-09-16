@@ -16,6 +16,7 @@ __HTML5__
 
 __CSS3__
 * [flex](https://yoksel.github.io/flex-cheatsheet/#display)
+* [flexbox playground](https://codepen.io/enxaneta/pen/adLPwv)
 * [cheatsheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 * [Bootstrap](https://getbootstrap.com/docs/4.2/utilities/borders/)
 

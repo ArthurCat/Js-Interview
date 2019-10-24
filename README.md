@@ -27,5 +27,5 @@ __DB__
 * [MySQL](https://gist.github.com/hofmannsven/9164408)
 * [Firebase](https://firebase.google.com/docs/)
 * https://www.techiediaries.com/angular-by-example-httpclient-get/
-* https://codepen.io/akolisz/pen/xraKGY
+* https://codepen.io/EduardL/pen/aBGAy
 * https://code-maze.com/angular-material-navigation/

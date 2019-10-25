@@ -20,6 +20,9 @@ __CSS3__
 * [cheatsheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 * [Bootstrap](https://getbootstrap.com/docs/4.2/utilities/borders/)
 
+__Sass/Scss__
+* https://sass-lang.com/guide
+
 __Big-O__
   * [Complexity Check](http://bigocheatsheet.com/)
 
@@ -29,3 +32,10 @@ __DB__
 * https://www.techiediaries.com/angular-by-example-httpclient-get/
 * https://codepen.io/EduardL/pen/aBGAy
 * https://code-maze.com/angular-material-navigation/
+
+__Angular__
+* https://angular.io/guide/http
+
+__k8s__
+* https://kubernetes.io/docs/concepts/cluster-administration/certificates/
+

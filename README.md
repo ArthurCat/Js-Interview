@@ -41,3 +41,12 @@ __k8s__
 __ui-templates__
 * https://codepen.io/matttherat/pen/EeMaEw
 * https://codepen.io/EduardL/pen/aBGAy
+* https://codepen.io/jcoulterdesign/pen/jExQGd
+* https://codepen.io/AdrienBachmann/pen/YXXyWL
+* https://codepen.io/frankieali4/pen/GIhtd
+* https://codepen.io/JonasBadalic/pen/PwWXqg
+* https://codepen.io/Siddharth11/pen/LVQmjN
+* https://codepen.io/mdbootstrap/pen/LRNZBz
+* https://codepen.io/dev_loop/pen/vYYxvbz
+* https://dribbble.com/shots/popular/web-design
+* https://codepen.io/JavaScriptJunkie/pen/mdbZmdR
